@@ -1,0 +1,13 @@
+{
+    "name": "Custom homepage",
+    "description": "Custom homepage for Google Chrome",
+    "version": "0.01",
+    "manifest_version": 3,
+    "icons": {"180": "icon_180.png"},
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+    }
+}
