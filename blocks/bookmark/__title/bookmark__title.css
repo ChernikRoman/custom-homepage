@@ -1,0 +1,8 @@
+.bookmark__title {
+    margin-top: 10px;
+    margin: 10px 3px 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #cccccc;
+}

@@ -1,0 +1,7 @@
+.bookmark__wrapper {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    background-color: #1c1c1c;
+    border-radius: 17px;
+}

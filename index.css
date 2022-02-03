@@ -1,0 +1,8 @@
+/*Блок root*/
+@import url('./blocks/root/root.css');
+
+/*Блок bookmark*/
+@import url('./blocks/bookmark/bookmark.css');
+@import url('./blocks/bookmark/__wrapper/bookmark__wrapper.css');
+@import url('./blocks/bookmark/__title/bookmark__title.css');
+@import url('./blocks/bookmark/__site-logo/bookmark__site-logo.css');
