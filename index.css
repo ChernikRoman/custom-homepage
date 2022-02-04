@@ -9,3 +9,7 @@
 @import url('./blocks/bookmark/__wrapper/bookmark__wrapper.css');
 @import url('./blocks/bookmark/__title/bookmark__title.css');
 @import url('./blocks/bookmark/__site-logo/bookmark__site-logo.css');
+
+/*Блок add-button*/
+@import url('./blocks/add-button/add-button.css');
+@import url('./blocks/add-button/__plus-ico/add-button__plus-ico.css');

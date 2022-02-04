@@ -1,0 +1,7 @@
+.add-button__plus-ico {
+    margin: auto;
+}
+
+.add-button:hover .add-button__plus-ico {
+    fill: #008cff86;
+}
