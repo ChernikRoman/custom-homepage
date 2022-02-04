@@ -1,0 +1,9 @@
+.bookmarks-container {
+    height: 100vh;
+    padding: 0 15%;
+    display: grid;
+    grid-template: auto / repeat(auto-fill, 80px);
+    gap: 10px;
+    justify-content: center;
+    align-content: center;
+}

@@ -13,3 +13,7 @@
 /*Блок add-button*/
 @import url('./blocks/add-button/add-button.css');
 @import url('./blocks/add-button/__plus-ico/add-button__plus-ico.css');
+
+/*Блок bookmarks-container*/
+@import url('./blocks/bookmarks-container/bookmarks-container.css');
+@import url('./blocks/bookmarks-container/__title/bookmarks-container__title.css');
