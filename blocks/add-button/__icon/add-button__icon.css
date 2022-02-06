@@ -1,0 +1,7 @@
+.add-button__icon {
+    margin: auto;
+}
+
+.add-button:hover .add-button__icon {
+    fill: #008cff86;
+}
