@@ -1,0 +1,8 @@
+.add-bookmark-popup {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    background-color: #0008;
+    display: flex;
+}

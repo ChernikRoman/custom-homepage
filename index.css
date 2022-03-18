@@ -17,3 +17,7 @@
 /*Блок bookmarks-container*/
 @import url('./blocks/bookmarks-container/bookmarks-container.css');
 @import url('./blocks/bookmarks-container/__title/bookmarks-container__title.css');
+
+/*Блок add-bookmarkpopup*/
+@import url('./blocks/add-bookmark-popup/add-bookmark-popup.css');
+@import url('./blocks/add-bookmark-popup/__form/add-bookmark-popup__form.css');
